@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phakphumv&label=Profile%20views&color=0e75b6&style=flat" alt="phakphumv" /> </p>
 
+- 🔭 I’m currently working on [Thai Historical Interest Rates](https://github.com/PhakphumV/th-bank-historical-interest-rates)
+
+- 🌱 I’m currently learning **Python, Pandas**
+
+- 📝 I regularly write articles on [https://technolista.com/](https://technolista.com/)
+
+- 💬 Ask me about **Frontend Web Development**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
